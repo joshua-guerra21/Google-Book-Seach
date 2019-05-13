@@ -28,3 +28,8 @@ src/index.css
 src/index.js
 src/logo.svg
 src/serviceWorker.js
+package-lock.json
+package.json
+src/App.css
+src/App.js
+.gitignore
